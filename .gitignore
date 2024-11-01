@@ -1,0 +1,15 @@
+# Ignora diretórios e arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora pastas e arquivos de ambiente de desenvolvimento
+.env
+__pycache__/
+*.pyc
+node_modules/
+
+# Ignora arquivos de configuração do editor
+.vscode/
+
+*.xlsx
+*.csv
